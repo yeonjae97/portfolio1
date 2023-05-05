@@ -1,0 +1,10 @@
+.classpath
+.project
+.springBeans
+src/main/webapp/resources/assets
+src/main/webapp/resources/assets2
+target
+.settings
+jdbc.properties
+src/test/java/co/sukbinggo/persistance/JDBCTests.java
+.svn
